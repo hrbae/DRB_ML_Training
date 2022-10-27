@@ -51,6 +51,8 @@ https://youtu.be/HDR_XZeI2as
 
 ## 데이터 로드 코드
 
+* 파일 위치: [week7-data-titanic.csv](https://github.com/hrbae/DRB_ML_Training/blob/main/2022/week7/data/titanic.csv)
+
 ```{.py}
 import pandas as pd
 
@@ -88,9 +90,9 @@ plt.rc('font', family='NanumBarunGothic')
 
 
 
-
-
 ## 데이터 로드 코드
+
+* 파일 위치: [week7-data-public utilites.csv](https://github.com/hrbae/DRB_ML_Training/blob/main/2022/week7/data/public%20utilites.csv)
 
 ```{.py}
 import pandas as pd
